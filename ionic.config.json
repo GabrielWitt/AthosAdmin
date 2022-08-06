@@ -1,0 +1,7 @@
+{
+  "name": "AthosAdmin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
